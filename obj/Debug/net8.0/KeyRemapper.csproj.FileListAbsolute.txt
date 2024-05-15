@@ -1,0 +1,14 @@
+/home/leonard/Projects/KeyRemapper/bin/Debug/net8.0/KeyRemapper
+/home/leonard/Projects/KeyRemapper/bin/Debug/net8.0/KeyRemapper.deps.json
+/home/leonard/Projects/KeyRemapper/bin/Debug/net8.0/KeyRemapper.runtimeconfig.json
+/home/leonard/Projects/KeyRemapper/bin/Debug/net8.0/KeyRemapper.dll
+/home/leonard/Projects/KeyRemapper/bin/Debug/net8.0/KeyRemapper.pdb
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.AssemblyInfoInputs.cache
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.AssemblyInfo.cs
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.csproj.CoreCompileInputs.cache
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.dll
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/refint/KeyRemapper.dll
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.pdb
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/KeyRemapper.genruntimeconfig.cache
+/home/leonard/Projects/KeyRemapper/obj/Debug/net8.0/ref/KeyRemapper.dll
