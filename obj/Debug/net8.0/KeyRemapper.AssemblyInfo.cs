@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeyRemapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6927d60b47afe4c90b3a82f9b85c54b03a5b0af")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeyRemapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeyRemapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
